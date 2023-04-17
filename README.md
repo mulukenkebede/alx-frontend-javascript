@@ -1,6 +1,6 @@
 # 0x0E. ES6 Basics
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
+:open_file_folder: Specializations - front-end
+:bust_in_silhouette: by muluken kebede
 :bookmark: arrow functions | block scope | block scoping | for-of loop | iterators | javascript | rest parameter | spread parameter | string templating
 
 ## Resources
