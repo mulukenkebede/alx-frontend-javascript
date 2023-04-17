@@ -8,7 +8,7 @@
 * [Software Linter](https://intranet.hbtn.io/concepts/354)
   - [lint (software) - Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
   - [ESLint - Pluggable JavaScript linter](https://eslint.org/)
-  - [pycodestyle - documentation](https://pycodestyle.pycqa.org/en/latest/)
+  
 ### Read or watch:
 * [ECMAScript 6 - ECMAScript 2015](https://www.w3schools.com/js/js_es6.asp)
 * [Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
