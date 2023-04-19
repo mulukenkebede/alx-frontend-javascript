@@ -1,5 +1,6 @@
-#0x01. ES6 Promises
-#Resources
+# 0x01. ES6 Promises
+
+# Resources
   Read or watch:
      - Promise
      - JavaScript Promise: An introduction
@@ -7,7 +8,7 @@
      - Async
      - Throw / Try
 
-#Learning Objectives
+# Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
       -  Promises (how, why, and what)
