@@ -1,5 +1,5 @@
 #0x01. ES6 Promises
-##Resources
+#Resources
   Read or watch:
      - Promise
      - JavaScript Promise: An introduction
