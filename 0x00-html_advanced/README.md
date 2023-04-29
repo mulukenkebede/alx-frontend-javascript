@@ -33,6 +33,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
       A README.md file at the root of the folder of the project is mandatory
       Your code should be W3C compliant and validate with W3C-Validator
       Techium will be the name of the company we will use across our webpages.
+
 ![image](https://user-images.githubusercontent.com/106770288/235316316-13a9bad3-a652-4efa-88a1-658261c1aaf0.png)
 
-![image](https://user-images.githubusercontent.com/106770288/235316342-ecf315c7-5000-4b70-9505-d5df834d6675.png)
+# Wireframe of Techium project
+![image](https://user-images.githubusercontent.com/106770288/235316548-37486432-5aeb-4f50-8efe-73e0d3eeabb5.png)
+
